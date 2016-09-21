@@ -27,6 +27,6 @@ public class Presentacion {
    
         System.out.println("Suma: " + cal.sumar());
         System.out.println("Resta: " + cal.restar());
-        
+        System.out.println("Producto: " + cal.multiplicar());
     }
 }
