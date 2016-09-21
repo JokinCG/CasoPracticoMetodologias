@@ -20,5 +20,8 @@ public class Calculadora {
         num2=n;
     }
     
-    
+    public int sumar(){
+        int sum = num1 + num2;  
+        return sum;
+    }
 }
